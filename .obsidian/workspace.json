@@ -11,12 +11,14 @@
             "id": "153d84c8b33afc4a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/配置obsidian/file-20251207184849691.png"
+                "file": "配置obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20251207184849691"
+              "icon": "lucide-file",
+              "title": "配置obsidian"
             }
           }
         ]
@@ -181,10 +183,10 @@
   },
   "active": "153d84c8b33afc4a",
   "lastOpenFiles": [
-    "assets/配置obsidian/file-20251207184106212.png",
+    "assets/配置obsidian/file-20251207184849691.png",
     "assets/配置obsidian/file-20251207184221663.png",
     "assets/配置obsidian/file-20251207184409719.png",
-    "assets/配置obsidian/file-20251207184849691.png",
+    "assets/配置obsidian/file-20251207184106212.png",
     "配置obsidian.md",
     "README.md",
     "assets/配置obsidian/file-20251207184221803.png",
