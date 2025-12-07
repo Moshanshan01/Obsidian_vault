@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "配置obsidian.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "配置obsidian"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02f4d048eb5b78a6",
@@ -183,8 +184,10 @@
   },
   "active": "153d84c8b33afc4a",
   "lastOpenFiles": [
-    "配置obsidian.md",
+    "~$obsidian.docx",
+    "配置obsidian.docx",
     "README.md",
+    "配置obsidian.md",
     "assets/配置obsidian/file-20251207184409719.png",
     "assets/配置obsidian/file-20251207190407172.png",
     "test.md",
