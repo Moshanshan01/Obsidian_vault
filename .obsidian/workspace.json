@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIXIN/3. 时钟源与时钟树.md",
+                "file": "LIXIN/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 时钟源与时钟树"
+              "title": "未命名"
             }
           }
         ]
@@ -183,12 +183,13 @@
   },
   "active": "688fa4828c567198",
   "lastOpenFiles": [
-    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221426726.png",
     "LIXIN/3. 时钟源与时钟树.md",
+    "LIXIN/未命名.md",
+    "LIXIN/2. GPIO相关概念.md",
+    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221426726.png",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221055717.png",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221048060.png",
     "LIXIN/assets/3. 时钟源与时钟树",
-    "LIXIN/2. GPIO相关概念.md",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221001418.png",
     "LIXIN/1. 原理图知识补充.md",
     "LIXIN/assets/2. GPIO相关概念/file-20251207215458391.png",
@@ -208,7 +209,6 @@
     "test.md",
     "assets/test/file-20251207190348473.png",
     "assets/test",
-    "assets/配置obsidian/file-20251207184849691.png",
     "2025-12-07.md",
     "assets/配置obsidian",
     "assets/未命名",
