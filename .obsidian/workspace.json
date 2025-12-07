@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置obsidian.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "配置obsidian"
+              "title": "README"
             }
           }
         ]
@@ -183,10 +183,10 @@
   },
   "active": "153d84c8b33afc4a",
   "lastOpenFiles": [
+    "配置obsidian.md",
     "README.md",
     "assets/配置obsidian/file-20251207184409719.png",
     "assets/配置obsidian/file-20251207190407172.png",
-    "配置obsidian.md",
     "test.md",
     "assets/test/file-20251207190348473.png",
     "assets/test",
