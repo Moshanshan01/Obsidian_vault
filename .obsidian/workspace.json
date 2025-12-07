@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIXIN/4. 分层解耦.md",
+                "file": "LIXIN/2. GPIO相关概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 分层解耦"
+              "title": "2. GPIO相关概念"
             }
           }
         ]
@@ -183,10 +183,12 @@
   },
   "active": "688fa4828c567198",
   "lastOpenFiles": [
-    "LIXIN/assets/4. 分层解耦/file-20251207221846022.png",
-    "LIXIN/assets/4. 分层解耦",
     "LIXIN/3. 时钟源与时钟树.md",
     "LIXIN/4. 分层解耦.md",
+    "未命名.md",
+    "LIXIN/assets/4. 分层解耦/file-20251207221918162.png",
+    "LIXIN/assets/4. 分层解耦/file-20251207221846022.png",
+    "LIXIN/assets/4. 分层解耦",
     "LIXIN/2. GPIO相关概念.md",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221426726.png",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221055717.png",
@@ -197,7 +199,6 @@
     "LIXIN/assets/2. GPIO相关概念/file-20251207215458391.png",
     "LIXIN/assets/2. GPIO相关概念/file-20251207215233888.png",
     "LIXIN/assets/2. GPIO相关概念",
-    "未命名.md",
     "LIXIN/assets/1. 原理图知识补充/file-20251207215027788.png",
     "LIXIN/assets/1. 原理图知识补充",
     "LIXIN/assets",
@@ -207,9 +208,7 @@
     "配置obsidian.docx",
     "README.md",
     "assets/配置obsidian/file-20251207184409719.png",
-    "assets/配置obsidian/file-20251207190407172.png",
     "test.md",
-    "assets/test/file-20251207190348473.png",
     "assets/test",
     "2025-12-07.md",
     "assets/配置obsidian",
