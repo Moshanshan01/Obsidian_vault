@@ -11,10 +11,14 @@
             "id": "68b3d30b2c9893bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "配置obsidian.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "配置obsidian"
             }
           }
         ]
@@ -179,6 +183,13 @@
   },
   "active": "68b3d30b2c9893bd",
   "lastOpenFiles": [
+    "assets/配置obsidian",
+    "assets/配置obsidian/file-20251207181921614.png",
+    "assets/配置obsidian/file-20251207181921616.png",
+    "assets/配置obsidian/file-20251207181921617.png",
+    "assets/未命名",
+    "assets",
+    "配置obsidian.md",
     "README.md",
     "test.txt",
     "新建 文本文档.txt"
