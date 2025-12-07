@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef45c79926dfac33",
+        "id": "fbc2ec96366fe6c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8e278b731ce5c6f6",
+            "id": "4d948270e07b41e7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,9 +173,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e278b731ce5c6f6",
-  "lastOpenFiles": []
+  "active": "4d948270e07b41e7",
+  "lastOpenFiles": [
+    "test.txt",
+    "新建 文本文档.txt"
+  ]
 }
