@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9df7ec722464014",
+        "id": "76a3a249fd6cb61b",
         "type": "tabs",
         "children": [
           {
-            "id": "15644d3cc8e10aca",
+            "id": "688fa4828c567198",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,14 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15644d3cc8e10aca",
+  "active": "688fa4828c567198",
   "lastOpenFiles": [
+    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221426726.png",
+    "LIXIN/3. 时钟源与时钟树.md",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221055717.png",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221048060.png",
     "LIXIN/assets/3. 时钟源与时钟树",
     "LIXIN/2. GPIO相关概念.md",
-    "LIXIN/3. 时钟源与时钟树.md",
-    "LIXIN/3. 时钟源与时钟树.md",
     "LIXIN/assets/3. 时钟源与时钟树/file-20251207221001418.png",
     "LIXIN/1. 原理图知识补充.md",
     "LIXIN/assets/2. GPIO相关概念/file-20251207215458391.png",
@@ -209,7 +209,6 @@
     "assets/test/file-20251207190348473.png",
     "assets/test",
     "assets/配置obsidian/file-20251207184849691.png",
-    "assets/配置obsidian/file-20251207184221663.png",
     "2025-12-07.md",
     "assets/配置obsidian",
     "assets/未命名",
