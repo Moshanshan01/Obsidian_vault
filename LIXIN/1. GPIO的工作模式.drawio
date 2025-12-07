@@ -1,0 +1,116 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="第 1 页" id="G-BJbOy9xgzZN9oFCAQz">
+    <mxGraphModel dx="909" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ACmVNNrFLLagpRrwYny-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-2" target="4ACmVNNrFLLagpRrwYny-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-2" target="4ACmVNNrFLLagpRrwYny-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-2" value="GPIO的工作模式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-4" target="4ACmVNNrFLLagpRrwYny-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="450" />
+              <mxPoint x="300" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-4" target="4ACmVNNrFLLagpRrwYny-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-4" target="4ACmVNNrFLLagpRrwYny-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="450" />
+              <mxPoint x="300" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-4" target="4ACmVNNrFLLagpRrwYny-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="450" />
+              <mxPoint x="300" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-4" value="输出模式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-5" target="4ACmVNNrFLLagpRrwYny-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="130" />
+              <mxPoint x="300" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-5" target="4ACmVNNrFLLagpRrwYny-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ACmVNNrFLLagpRrwYny-5" target="4ACmVNNrFLLagpRrwYny-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="130" />
+              <mxPoint x="300" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-5" value="输入模式" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-6" value="顾名思义，模拟输入就是将模拟信号通过Pin引脚直接传递到片上，而不经过TTL施密特触发器进行方波转换，这个模式通常会将采集到的模拟下信号传递给ADC模块" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="401" y="20" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-7" value="复用功能输入是指将采集到的信号作为输入传递给片上的其他外设模块，譬如USART、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;I2C、SPI等等，用于接收引脚上传递而来的外部数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="401" y="100" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-8" value="该模式下，Pin脚上的信号会经TTL施密特触发器整形成方波存储到输入数据寄存器GPIOx_IDR中，我们只需要去读取该寄存器就能知道该Pin脚的电平状态啦" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="401" y="180" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-9" value="在推挽模式下，Pin脚处的电平高低将完全由IO口内部决定，当输出控制缓冲器输出1时，N-MOS导通，Pin脚被接地，所以IO口总是低电平；反之，当输出控制缓冲器输出0时，P-MOS导通，Pin脚接Vdd，IO口就总是高电平" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="401" y="315" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-10" value="在开漏模式下，P-MOS总是处于关断状态，不再受输出控制缓冲器控制其开关；当输出控制缓冲器输出1时IO口的引脚状态上面已经描述过啦，主要说下当N-MOS处于关断状态时IO口的状态，在此状态下，因为IO即没有接通电源也没有被接地，所以IO处的电平我们并不能确定，此时当我实际去测量时会发现IO处电平飘忽不定，此时这种情况我们称之为高阻态或浮空模式，这并不是一个好的情况，因为某些情况下IO会有电流出现，影响我们的端口信号，所以我们通常会将他接地或通过外置上拉电阻将其钳制在高电平" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="387.5" width="369" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-11" value="复用功能输出其实和复用功能输入类似，都是将IO口间接连接到片上外设上，不过前者是电信号从片上外设流向IO口，后者是电信号从IO口流向片上外设" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="525" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-12" value="与模拟输入类似，当IO口用于DAC 作为模拟电压输出通道时，此时作为模拟输出功能，但模拟输出就不经过双MOS 管，模拟信号直接通过管脚输出" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="359" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-26" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;模拟输入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="300" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-28" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;复用功能输入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="300" y="115" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-29" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;普通IO&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;口输入&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-30" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;推挽输出&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-31" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;开漏输出&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="300" y="435" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-32" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;复用功能输出&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-33" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;模拟输出&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;textShadow=0;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="300" y="615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ACmVNNrFLLagpRrwYny-42" value="注：&lt;div&gt;1. 以上模式可以同时开启多种，譬如当IO口引脚处于浮空状态时，我们可以通过输入模式读取IO口的电平信号；使用复用功能输出时，也可以&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry y="680" width="760" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
