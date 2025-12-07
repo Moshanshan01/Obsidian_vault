@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7f8eddf1a59dfd",
+        "id": "b9df7ec722464014",
         "type": "tabs",
         "children": [
           {
-            "id": "153d84c8b33afc4a",
+            "id": "15644d3cc8e10aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIXIN/2. GPIO相关概念.md",
+                "file": "LIXIN/3. 时钟源与时钟树.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2. GPIO相关概念"
+              "title": "3. 时钟源与时钟树"
             }
           }
         ]
@@ -181,13 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "153d84c8b33afc4a",
+  "active": "15644d3cc8e10aca",
   "lastOpenFiles": [
+    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221055717.png",
+    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221048060.png",
+    "LIXIN/assets/3. 时钟源与时钟树",
+    "LIXIN/2. GPIO相关概念.md",
+    "LIXIN/3. 时钟源与时钟树.md",
+    "LIXIN/3. 时钟源与时钟树.md",
+    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221001418.png",
+    "LIXIN/1. 原理图知识补充.md",
     "LIXIN/assets/2. GPIO相关概念/file-20251207215458391.png",
     "LIXIN/assets/2. GPIO相关概念/file-20251207215233888.png",
     "LIXIN/assets/2. GPIO相关概念",
-    "LIXIN/1. 原理图知识补充.md",
-    "LIXIN/2. GPIO相关概念.md",
     "未命名.md",
     "LIXIN/assets/1. 原理图知识补充/file-20251207215027788.png",
     "LIXIN/assets/1. 原理图知识补充",
@@ -204,13 +210,9 @@
     "assets/test",
     "assets/配置obsidian/file-20251207184849691.png",
     "assets/配置obsidian/file-20251207184221663.png",
-    "assets/配置obsidian/file-20251207184106212.png",
-    "assets/配置obsidian/file-20251207184221803.png",
-    "assets/配置obsidian/file-20251207182628683.png",
     "2025-12-07.md",
     "assets/配置obsidian",
     "assets/未命名",
-    "assets",
-    "test.txt"
+    "assets"
   ]
 }
