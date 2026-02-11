@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "a4c18a2af0ba7c03",
+    "id": "dafeab0e94ed0b53",
     "type": "split",
     "children": [
       {
-        "id": "76a3a249fd6cb61b",
+        "id": "3f4fdb8006ef259f",
         "type": "tabs",
         "children": [
           {
-            "id": "688fa4828c567198",
+            "id": "7e31586d3ae442af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置obsidian.md",
+                "file": "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "雾凇输入法修改候选栏样式，同时解决光标前置问题"
+            }
+          },
+          {
+            "id": "70410780c0508cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch+gnome设置笔记/arch下.AppImage的用法.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置obsidian"
+              "title": "arch下.AppImage的用法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "40f4ffde6cdbc53f",
+    "id": "804a0100cd28c4da",
     "type": "split",
     "children": [
       {
-        "id": "a4ad4fb4e428c341",
+        "id": "be95ac6e81a0bed3",
         "type": "tabs",
         "children": [
           {
-            "id": "d07f835150db51b6",
+            "id": "b95329be2a7105a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "44202c3c9ce49599",
+            "id": "5df5b66c9cded6fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "5c769c898d231107",
+            "id": "34762439589cb397",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "02f4d048eb5b78a6",
+    "id": "11f5ba4168dff0c6",
     "type": "split",
     "children": [
       {
-        "id": "b035d7f0061b0dd9",
+        "id": "10e53fb1eabc6361",
         "type": "tabs",
         "children": [
           {
-            "id": "965b8af685ef0e89",
+            "id": "9a4bda03de237095",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "雾凇输入法修改候选栏样式，同时解决光标前置问题 的反向链接列表"
             }
           },
           {
-            "id": "c350969e62f90ebb",
+            "id": "3fcd93e3ac4eefc5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "雾凇输入法修改候选栏样式，同时解决光标前置问题 的出链列表"
             }
           },
           {
-            "id": "eb11bd45477d0993",
+            "id": "c1de1a0da1605470",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +152,7 @@
             }
           },
           {
-            "id": "854021f5898705c8",
+            "id": "6d6e1584a2999439",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,17 +166,18 @@
             }
           },
           {
-            "id": "619f4df050b396c5",
+            "id": "c0419b74d1e674b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "雾凇输入法修改候选栏样式，同时解决光标前置问题 的大纲"
             }
           }
         ]
@@ -177,41 +195,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "688fa4828c567198",
+  "active": "70410780c0508cef",
   "lastOpenFiles": [
-    "LIXIN/2. GPIO相关概念.md",
-    "LIXIN/3. 时钟源与时钟树.md",
-    "LIXIN/4. 分层解耦.md",
-    "未命名.md",
-    "LIXIN/assets/4. 分层解耦/file-20251207221918162.png",
-    "LIXIN/assets/4. 分层解耦/file-20251207221846022.png",
-    "LIXIN/assets/4. 分层解耦",
-    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221426726.png",
-    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221055717.png",
-    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221048060.png",
-    "LIXIN/assets/3. 时钟源与时钟树",
-    "LIXIN/assets/3. 时钟源与时钟树/file-20251207221001418.png",
-    "LIXIN/1. 原理图知识补充.md",
-    "LIXIN/assets/2. GPIO相关概念/file-20251207215458391.png",
-    "LIXIN/assets/2. GPIO相关概念/file-20251207215233888.png",
-    "LIXIN/assets/2. GPIO相关概念",
-    "LIXIN/assets/1. 原理图知识补充/file-20251207215027788.png",
-    "LIXIN/assets/1. 原理图知识补充",
-    "LIXIN/assets",
-    "1. 原理图知识补充.md",
-    "配置obsidian.md",
-    "~$obsidian.docx",
-    "配置obsidian.docx",
-    "README.md",
-    "assets/配置obsidian/file-20251207184409719.png",
-    "test.md",
-    "assets/test",
-    "2025-12-07.md",
-    "assets/配置obsidian",
-    "assets/未命名"
+    "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
+    "Arch+gnome设置笔记/arch下.AppImage的用法.md",
+    "Homework/鼠标垫/鼠标垫.png",
+    "Homework/鼠标垫.png",
+    "鼠标垫.png",
+    "Homework/鼠标垫",
+    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题/file-20260208173433181.png",
+    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题",
+    "Arch+gnome设置笔记/assets/- 雾凇输入法修改候选栏样式，同时解决光标前置问题",
+    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题/file-{{date-YYYYMMDDHHmmssSSS}}.png",
+    "Arch+gnome设置笔记/assets",
+    "Pasted image 20260208172111.png",
+    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题/file-20260208171122185.png"
   ]
 }

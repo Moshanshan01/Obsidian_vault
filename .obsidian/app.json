@@ -1,8 +1,6 @@
 {
-  "strictLineBreaks": false,
-  "showLineNumber": false,
-  "vimMode": false,
+  "promptDelete": false,
+  "showLineNumber": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
-  "promptDelete": false
+  "trashOption": "local"
 }
