@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4fdb8006ef259f",
+        "id": "bc8e231d3bfa3248",
         "type": "tabs",
         "children": [
           {
-            "id": "7e31586d3ae442af",
+            "id": "aeacd1b4493c8acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
+                "file": "LIXIN/7. 定时器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雾凇输入法修改候选栏样式，同时解决光标前置问题"
-            }
-          },
-          {
-            "id": "70410780c0508cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch+gnome设置笔记/arch下.AppImage的用法.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "arch下.AppImage的用法"
+              "title": "7. 定时器"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,20 +183,39 @@
       "bases:新建数据库": false
     }
   },
-  "active": "70410780c0508cef",
+  "active": "aeacd1b4493c8acf",
   "lastOpenFiles": [
+    "LIXIN/6. 串口.md",
+    "LIXIN/7. 定时器.md",
+    "LIXIN/5. 中断.md",
+    "LIXIN/4. 分层解耦.md",
+    "LIXIN/3. 时钟源与时钟树.md",
+    "LIXIN/1. 原理图知识补充.md",
+    "LIXIN/2. GPIO相关概念.md",
+    "Arch+gnome设置笔记/STM32CubeMX 生成的代码由2空格改4空格.md",
+    "LIXIN/assets/7. 定时器/file-20260324181634057.png",
+    "LIXIN/assets/7. 定时器/file-20260324165053724.png",
+    "LIXIN/assets/7. 定时器/file-20260324164649848.png",
+    "LIXIN/assets/7. 定时器",
+    "LIXIN/assets/6. 串口/file-20260322201617709.png",
+    "LIXIN/assets/6. 串口/file-20260322200937033.png",
+    "LIXIN/assets/6. 串口/file-20260318222406944.png",
+    "LIXIN/assets/6. 串口/file-20260318221056502.png",
+    "LIXIN/assets/6. 串口",
+    "LIXIN/7. DMA.md",
+    "LIXIN/assets/6. 串口/file-20260318220131866.png",
+    "LIXIN/assets/6. 串口/file-20260318220131868.png",
+    "LIXIN/assets/6. 串口原理/file-20260318210844754.png",
+    "LIXIN/assets/6. 串口原理",
+    "LIXIN/assets/5. 中断",
+    "LIXIN/assets/5. 深入中断",
     "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
     "Arch+gnome设置笔记/arch下.AppImage的用法.md",
-    "Homework/鼠标垫/鼠标垫.png",
-    "Homework/鼠标垫.png",
-    "鼠标垫.png",
+    "Arch+gnome设置笔记/pacman -Syu 忽略某个包的更新.md",
+    "配置obsidian/配置obsidian.md",
     "Homework/鼠标垫",
-    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题/file-20260208173433181.png",
     "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题",
     "Arch+gnome设置笔记/assets/- 雾凇输入法修改候选栏样式，同时解决光标前置问题",
-    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题/file-{{date-YYYYMMDDHHmmssSSS}}.png",
-    "Arch+gnome设置笔记/assets",
-    "Pasted image 20260208172111.png",
-    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题/file-20260208171122185.png"
+    "Arch+gnome设置笔记/assets"
   ]
 }

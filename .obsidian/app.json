@@ -1,6 +1,7 @@
 {
   "promptDelete": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "useMarkdownLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "strictLineBreaks": true
 }
