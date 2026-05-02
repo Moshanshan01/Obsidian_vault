@@ -3,7 +3,8 @@
   "showLineNumber": false,
   "useMarkdownLinks": true,
   "trashOption": "local",
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "smartIndentList": false,
-  "useTab": true
+  "useTab": true,
+  "readableLineLength": false
 }

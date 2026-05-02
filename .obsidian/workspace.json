@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8e231d3bfa3248",
+        "id": "866d8b8e3b3cedee",
         "type": "tabs",
         "children": [
           {
-            "id": "aeacd1b4493c8acf",
+            "id": "1b644a8ac4f4632d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch+gnome设置笔记/Arch 软件迁移.md",
-                "mode": "source",
-                "source": false
+                "file": "LIXIN/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Arch 软件迁移"
+              "title": "11. 使用Doxygen + Graphviz 进行代码结构分析"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "11f5ba4168dff0c6",
@@ -183,28 +183,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b95329be2a7105a4",
+  "active": "1b644a8ac4f4632d",
   "lastOpenFiles": [
-    "LIXIN/7. 定时器.md",
-    "Arch+gnome设置笔记/Arch 软件迁移.md",
-    "LIXIN/2. GPIO相关概念.md",
+    "LIXIN/10. ADC.md",
+    "LIXIN/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
     "LIXIN/8. HardFault.md",
-    "LIXIN/4. 分层解耦.md",
+    "LIXIN/9. 下载调试相关知识补充.md",
     "LIXIN/6. 串口.md",
-    "LIXIN/assets/7. 定时器/file-20260402230505105.png",
-    "LIXIN/assets/7. 定时器/file-20260402230114824.png",
-    "LIXIN/assets/7. 定时器/file-20260402224546448.png",
-    "LIXIN/assets/7. 定时器/file-20260402224511873.png",
-    "LIXIN/assets/7. 定时器/file-20260402223536526.png",
-    "LIXIN/assets/7. 定时器/file-20260402222533740.png",
-    "LIXIN/assets/7. 定时器/file-20260402222456227.png",
-    "LIXIN/assets/7. 定时器/file-20260402221323443.png",
-    "LIXIN/assets/7. 定时器/file-20260402220924158.png",
+    "LIXIN/assets/10. ADC/file-20260426232529966.png",
     "LIXIN/5. 中断.md",
+    "LIXIN/assets/10. ADC/file-20260426205507166.png",
+    "LIXIN/assets/10. ADC",
     "LIXIN/3. 时钟源与时钟树.md",
+    "LIXIN/assets/8. HardFault/file-20260422224542965.png",
+    "LIXIN/assets/8. HardFault/file-20260422224326542.png",
+    "LIXIN/assets/8. HardFault",
+    "LIXIN/7. 定时器.md",
+    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419185921902.png",
+    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419185417039.png",
+    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419180747697.png",
+    "LIXIN/2. GPIO相关概念.md",
     "LIXIN/1. 原理图知识补充.md",
+    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419174152338.png",
+    "LIXIN/assets/9. 下载调试相关知识补充",
+    "LIXIN/assets/7. 定时器/file-20260412212015508.png",
+    "LIXIN/assets/7. 定时器/file-20260412175932798.png",
+    "Arch+gnome设置笔记/Arch 软件迁移.md",
+    "LIXIN/4. 分层解耦.md",
     "Arch+gnome设置笔记/STM32CubeMX 生成的代码由2空格改4空格.md",
-    "LIXIN/assets/7. 定时器/file-20260324181634057.png",
     "LIXIN/assets/7. 定时器",
     "LIXIN/assets/6. 串口",
     "LIXIN/7. DMA.md",
@@ -216,8 +222,6 @@
     "Arch+gnome设置笔记/pacman -Syu 忽略某个包的更新.md",
     "配置obsidian/配置obsidian.md",
     "Homework/鼠标垫",
-    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题",
-    "Arch+gnome设置笔记/assets/- 雾凇输入法修改候选栏样式，同时解决光标前置问题",
-    "Arch+gnome设置笔记/assets"
+    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题"
   ]
 }
