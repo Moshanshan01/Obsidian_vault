@@ -6,5 +6,7 @@
   "strictLineBreaks": false,
   "smartIndentList": false,
   "useTab": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
 }

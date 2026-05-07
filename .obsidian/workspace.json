@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "866d8b8e3b3cedee",
+        "id": "411b50ae9d11983e",
         "type": "tabs",
         "children": [
           {
-            "id": "1b644a8ac4f4632d",
+            "id": "a4261c849ec62ee9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIXIN/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "11. 使用Doxygen + Graphviz 进行代码结构分析"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 341.5
   },
   "right": {
     "id": "11f5ba4168dff0c6",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "雾凇输入法修改候选栏样式，同时解决光标前置问题 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -183,45 +178,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1b644a8ac4f4632d",
+  "active": "a4261c849ec62ee9",
   "lastOpenFiles": [
-    "LIXIN/10. ADC.md",
-    "LIXIN/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
-    "LIXIN/8. HardFault.md",
-    "LIXIN/9. 下载调试相关知识补充.md",
-    "LIXIN/6. 串口.md",
-    "LIXIN/assets/10. ADC/file-20260426232529966.png",
-    "LIXIN/5. 中断.md",
-    "LIXIN/assets/10. ADC/file-20260426205507166.png",
-    "LIXIN/assets/10. ADC",
-    "LIXIN/3. 时钟源与时钟树.md",
-    "LIXIN/assets/8. HardFault/file-20260422224542965.png",
-    "LIXIN/assets/8. HardFault/file-20260422224326542.png",
-    "LIXIN/assets/8. HardFault",
-    "LIXIN/7. 定时器.md",
-    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419185921902.png",
-    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419185417039.png",
-    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419180747697.png",
-    "LIXIN/2. GPIO相关概念.md",
-    "LIXIN/1. 原理图知识补充.md",
-    "LIXIN/assets/9. 下载调试相关知识补充/file-20260419174152338.png",
-    "LIXIN/assets/9. 下载调试相关知识补充",
-    "LIXIN/assets/7. 定时器/file-20260412212015508.png",
-    "LIXIN/assets/7. 定时器/file-20260412175932798.png",
-    "Arch+gnome设置笔记/Arch 软件迁移.md",
-    "LIXIN/4. 分层解耦.md",
-    "Arch+gnome设置笔记/STM32CubeMX 生成的代码由2空格改4空格.md",
-    "LIXIN/assets/7. 定时器",
-    "LIXIN/assets/6. 串口",
-    "LIXIN/7. DMA.md",
-    "LIXIN/assets/6. 串口原理",
-    "LIXIN/assets/5. 中断",
-    "LIXIN/assets/5. 深入中断",
+    "LIXIN/SMT32底层知识补充/4.FreeRTOS.md",
+    "LIXIN/SMT32底层知识补充/3.GCC 编译器下STM32的启动流程.md",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS",
+    "README.md",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOSddd",
+    "未命名/未命名6666.md",
+    "未命名/ddd到达1.md",
+    "未命名/assets/ddd到达1",
+    "未命名/assets/ddd到达1/file-20260506234146251.png",
+    "未命名/assets/ddd",
+    "LIXIN/基础知识/1. 原理图知识补充.md",
+    "LIXIN/SMT32底层知识补充/2.ARMCC 编译器下STM32的启动流程.md",
+    "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506212731395.png",
+    "LIXIN/基础知识/2. GPIO相关概念.md",
+    "未命名/assets/未命名6666",
+    "未命名/assets/未命名",
+    "未命名/assets/未命名6666/file-20260506230557767.png",
+    "未命名/assets/未命名dddd",
+    "未命名/assets",
+    "未命名",
+    "assets/未命名",
+    "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506214147418.png",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556492.png",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556499.png",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556502.png",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556501.png",
+    "LIXIN/SMT32底层知识补充/1.内存分布.md",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556498.png",
+    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556496.png",
     "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
+    "Arch+gnome设置笔记/Arch 软件迁移.md",
     "Arch+gnome设置笔记/arch下.AppImage的用法.md",
     "Arch+gnome设置笔记/pacman -Syu 忽略某个包的更新.md",
-    "配置obsidian/配置obsidian.md",
-    "Homework/鼠标垫",
-    "Arch+gnome设置笔记/assets/雾凇输入法修改候选栏样式，同时解决光标前置问题"
+    "Arch+gnome设置笔记/STM32CubeMX 生成的代码由2空格改4空格.md",
+    "LIXIN/基础知识/10. ADC.md",
+    "LIXIN/基础知识/9. 下载调试相关知识补充.md",
+    "LIXIN/基础知识/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
+    "LIXIN/基础知识/12. SMT32底层知识补充.md",
+    "LIXIN/基础知识/6. 串口.md",
+    "LIXIN/基础知识/7. 定时器.md",
+    "LIXIN/基础知识/4. 分层解耦.md",
+    "LIXIN/基础知识/3. 时钟源与时钟树.md",
+    "LIXIN/基础知识/8. HardFault.md",
+    "LIXIN/基础知识/5. 中断.md",
+    "2026-05-03.md"
   ]
 }

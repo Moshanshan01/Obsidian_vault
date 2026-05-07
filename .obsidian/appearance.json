@@ -1,5 +1,10 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 21,
   "baseFontSizeAction": true,
-  "textFontFamily": "Noto Serif"
+  "textFontFamily": "Noto Serif",
+  "theme": "moonstone",
+  "monospaceFontFamily": "",
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "accentColor": ""
 }

@@ -5,7 +5,7 @@
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
   "customTokensStr": "",
-  "defaultImageSize": "",
+  "defaultImageSize": "800px",
   "defaultImageSizeDimension": "width",
   "duplicateNameSeparator": " ",
   "emptyFolderBehavior": "DeleteWithEmptyParents",
@@ -17,9 +17,9 @@
   "markdownUrlFormat": "assets/${noteFileName}/${generatedAttachmentFileName}",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
   "renamedAttachmentFileName": "",
-  "shouldDeleteOrphanAttachments": false,
+  "shouldDeleteOrphanAttachments": true,
   "shouldHandleRenames": true,
-  "shouldRenameAttachmentFiles": true,
+  "shouldRenameAttachmentFiles": false,
   "shouldRenameAttachmentFolder": true,
   "shouldRenameCollectedAttachments": false,
   "specialCharacters": "#^[]|*\\<>:?/",
@@ -28,5 +28,5 @@
   "treatAsAttachmentExtensions": [
     ".excalidraw.md"
   ],
-  "version": "10.3.1"
+  "version": "10.3.4"
 }
