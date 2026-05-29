@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIXIN/基础知识/OTA/2. ymodem协议.md",
+                "file": "LIXIN/基础知识/OTA/10. 升级标志位实现.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2. ymodem协议"
+              "title": "10. 升级标志位实现"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIXIN/基础知识/OTA/2. ymodem协议.md",
+                "file": "LIXIN/基础知识/OTA/10. 升级标志位实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2. ymodem协议 的反向链接列表"
+              "title": "10. 升级标志位实现 的反向链接列表"
             }
           },
           {
@@ -185,25 +185,31 @@
   },
   "active": "7e086eeef9c17e41",
   "lastOpenFiles": [
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.65138.43a3e6460baf",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.65138.b6834d330524",
+    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令实现上述.md.tmp.65138.5bc4af3b886d",
+    "LIXIN/基础知识/OTA/6. 使用mbedTLS实现上述.md.tmp.65138.3f30c6a99a68",
+    "LIXIN/基础知识/OTA/11. claude整理的问题.md",
+    "LIXIN/基础知识/OTA/11. claude整理的问题",
     "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md",
-    "LIXIN/基础知识/OTA/2. ymodem协议.md",
-    "LIXIN/基础知识/OTA/3. 哈希算法（解决完整性）.md",
-    "LIXIN/基础知识/OTA/4. AES 原理（解决保密性）.md",
+    "LIXIN/基础知识/OTA/8. 完整固件包格式设计.md",
+    "LIXIN/基础知识/OTA/9. 固件验证流程实现.md",
+    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令实现上述.md",
+    "LIXIN/基础知识/OTA/6. 使用mbedTLS实现上述.md",
     "LIXIN/基础知识/OTA/5. 非对称加密原理（解决真实性）.md",
+    "LIXIN/基础知识/OTA/4. AES 原理（解决保密性）.md",
+    "LIXIN/基础知识/OTA/3. 哈希算法（解决完整性）.md",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md",
+    "LIXIN/基础知识/OTA/10. 升级标志位实现.md",
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.745370bd957f",
+    "LIXIN/基础知识/OTA/9. 固件验证流程实现.md.tmp.48452.062e089846c8",
+    "LIXIN/基础知识/OTA/8. 完整固件包格式设计.md.tmp.48452.772baff90441",
+    "LIXIN/基础知识/OTA/8. 完整固件包格式设计.md.tmp.48452.d81f8670ace8",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.1aa0b8949644",
+    "LIXIN/基础知识/OTA/10. 升级标志位实现.md.tmp.48452.d571452d926c",
     "LIXIN/基础知识/OTA/6. 使用mbedTLS.md",
     "LIXIN/基础知识/OTA/7. 使用OpenSSL命令.md",
-    "LIXIN/基础知识/OTA/8. 完整固件包格式设计.md",
     "LIXIN/基础知识/OTA/9. 防降级攻击实现.md",
-    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.e3efbb7cc0ec",
-    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.64227f93c9bf",
-    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.c964132025f5",
-    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.44d82971f92a",
-    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.f14553c52a38",
-    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.c07e29335e98",
-    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.f2f0fc18b641",
-    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令实现上述.md.tmp.48452.7c94451c56ba",
-    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令实现上述.md.tmp.48452.6f431e3ec26a",
-    "LIXIN/基础知识/OTA/6. 使用mbedTLS实现上述.md.tmp.48452.0828a140a50b",
     "LIXIN/基础知识/OTA/1..md",
     "LIXIN/基础知识/10. ADC.md",
     "LIXIN/基础知识/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
@@ -215,16 +221,11 @@
     "LIXIN/SMT32底层知识补充/5. FreeRTOS.md",
     "LIXIN/SMT32底层知识补充/4. 上下文切换的流程.md",
     "LIXIN/SMT32底层知识补充/3.GCC 编译器下STM32的启动流程.md",
-    "LIXIN/基础知识/2. GPIO相关概念.md",
-    "LIXIN/基础知识/8. HardFault.md",
     "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556502.png",
     "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556501.png",
     "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556498.png",
     "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556496.png",
     "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556492.png",
-    "LIXIN/SMT32底层知识补充/1.内存分布.md",
-    "LIXIN/基础知识/1. 原理图知识补充.md",
-    "LIXIN/基础知识/3. 时钟源与时钟树.md",
     "未命名/assets/ddd到达1/file-20260506234146251.png",
     "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506212731395.png",
     "未命名/assets/未命名6666/file-20260506230557767.png",
