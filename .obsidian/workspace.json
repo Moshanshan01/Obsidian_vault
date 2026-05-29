@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "411b50ae9d11983e",
+        "id": "0df2772a70d9599f",
         "type": "tabs",
         "children": [
           {
-            "id": "a4261c849ec62ee9",
+            "id": "7e086eeef9c17e41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LIXIN/基础知识/OTA/2. ymodem协议.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2. ymodem协议"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LIXIN/基础知识/OTA/2. ymodem协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2. ymodem协议 的反向链接列表"
             }
           },
           {
@@ -178,52 +183,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a4261c849ec62ee9",
+  "active": "7e086eeef9c17e41",
   "lastOpenFiles": [
-    "LIXIN/SMT32底层知识补充/4.FreeRTOS.md",
-    "LIXIN/SMT32底层知识补充/3.GCC 编译器下STM32的启动流程.md",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS",
-    "README.md",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOSddd",
-    "未命名/未命名6666.md",
-    "未命名/ddd到达1.md",
-    "未命名/assets/ddd到达1",
-    "未命名/assets/ddd到达1/file-20260506234146251.png",
-    "未命名/assets/ddd",
-    "LIXIN/基础知识/1. 原理图知识补充.md",
-    "LIXIN/SMT32底层知识补充/2.ARMCC 编译器下STM32的启动流程.md",
-    "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506212731395.png",
-    "LIXIN/基础知识/2. GPIO相关概念.md",
-    "未命名/assets/未命名6666",
-    "未命名/assets/未命名",
-    "未命名/assets/未命名6666/file-20260506230557767.png",
-    "未命名/assets/未命名dddd",
-    "未命名/assets",
-    "未命名",
-    "assets/未命名",
-    "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506214147418.png",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556492.png",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556499.png",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556502.png",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556501.png",
-    "LIXIN/SMT32底层知识补充/1.内存分布.md",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556498.png",
-    "LIXIN/SMT32底层知识补充/assets/4.FreeRTOS/file-20260506221556496.png",
-    "Arch+gnome设置笔记/雾凇输入法修改候选栏样式，同时解决光标前置问题.md",
-    "Arch+gnome设置笔记/Arch 软件迁移.md",
-    "Arch+gnome设置笔记/arch下.AppImage的用法.md",
-    "Arch+gnome设置笔记/pacman -Syu 忽略某个包的更新.md",
-    "Arch+gnome设置笔记/STM32CubeMX 生成的代码由2空格改4空格.md",
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md",
+    "LIXIN/基础知识/OTA/3. 哈希算法（解决完整性）.md",
+    "LIXIN/基础知识/OTA/4. AES 原理（解决保密性）.md",
+    "LIXIN/基础知识/OTA/5. 非对称加密原理（解决真实性）.md",
+    "LIXIN/基础知识/OTA/6. 使用mbedTLS.md",
+    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令.md",
+    "LIXIN/基础知识/OTA/8. 完整固件包格式设计.md",
+    "LIXIN/基础知识/OTA/9. 防降级攻击实现.md",
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.e3efbb7cc0ec",
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.64227f93c9bf",
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.c964132025f5",
+    "LIXIN/基础知识/OTA/1. OTA 固件升级完整流程.md.tmp.48452.44d82971f92a",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.f14553c52a38",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.c07e29335e98",
+    "LIXIN/基础知识/OTA/2. ymodem协议.md.tmp.48452.f2f0fc18b641",
+    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令实现上述.md.tmp.48452.7c94451c56ba",
+    "LIXIN/基础知识/OTA/7. 使用OpenSSL命令实现上述.md.tmp.48452.6f431e3ec26a",
+    "LIXIN/基础知识/OTA/6. 使用mbedTLS实现上述.md.tmp.48452.0828a140a50b",
+    "LIXIN/基础知识/OTA/1..md",
     "LIXIN/基础知识/10. ADC.md",
-    "LIXIN/基础知识/9. 下载调试相关知识补充.md",
     "LIXIN/基础知识/11. 使用Doxygen + Graphviz 进行代码结构分析.md",
-    "LIXIN/基础知识/12. SMT32底层知识补充.md",
+    "LIXIN/问题整理/1. J-Link RTT Viewer 问题收集.md",
+    "LIXIN/基础知识/9. 下载调试相关知识补充.md",
+    "LIXIN/基础知识/12. Ymodem协议.md",
     "LIXIN/基础知识/6. 串口.md",
-    "LIXIN/基础知识/7. 定时器.md",
-    "LIXIN/基础知识/4. 分层解耦.md",
-    "LIXIN/基础知识/3. 时钟源与时钟树.md",
-    "LIXIN/基础知识/8. HardFault.md",
     "LIXIN/基础知识/5. 中断.md",
-    "2026-05-03.md"
+    "LIXIN/SMT32底层知识补充/5. FreeRTOS.md",
+    "LIXIN/SMT32底层知识补充/4. 上下文切换的流程.md",
+    "LIXIN/SMT32底层知识补充/3.GCC 编译器下STM32的启动流程.md",
+    "LIXIN/基础知识/2. GPIO相关概念.md",
+    "LIXIN/基础知识/8. HardFault.md",
+    "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556502.png",
+    "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556501.png",
+    "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556498.png",
+    "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556496.png",
+    "LIXIN/SMT32底层知识补充/assets/5.FreeRTOS/file-20260506221556492.png",
+    "LIXIN/SMT32底层知识补充/1.内存分布.md",
+    "LIXIN/基础知识/1. 原理图知识补充.md",
+    "LIXIN/基础知识/3. 时钟源与时钟树.md",
+    "未命名/assets/ddd到达1/file-20260506234146251.png",
+    "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506212731395.png",
+    "未命名/assets/未命名6666/file-20260506230557767.png",
+    "LIXIN/SMT32底层知识补充/assets/2.ARMCC 编译器下STM32的启动流程/file-20260506214147418.png",
+    "LIXIN/SMT32底层知识补充/assets/4.上下文切换的流程/file-20260506221556492.png"
   ]
 }
